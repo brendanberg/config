@@ -1,0 +1,11 @@
+# Readline configuration found at
+# http://www.reddit.com/r/commandline/comments/kbeoe/you_can_make_readline_and_bash_much_more_user/
+
+# Igore case when tab-completing
+set completion-ignore-case on
+
+# Replace completed sections in listings with ellipses
+set completion-prefix-display-length 2
+
+# Map hyphen and undrescore
+set completion-map-case on
